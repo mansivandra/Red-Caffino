@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684745708414",
+    "project_id": "red-caffino",
+    "storage_bucket": "red-caffino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684745708414:android:dd52a9f8c670e0550d592f",
+        "android_client_info": {
+          "package_name": "com.example.redcaffino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684745708414-cdeni51us6r7iri7gncftnaieu5amu82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redcaffino",
+            "certificate_hash": "5416b92b0185f8707d5ba430a401815373e1f56d"
+          }
+        },
+        {
+          "client_id": "684745708414-7tvbibecnde5dhgh118n7vpnda8irvni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CwzJlJ6JQ4F7SXDgX_0uHnv0IddCXMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684745708414-7tvbibecnde5dhgh118n7vpnda8irvni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
